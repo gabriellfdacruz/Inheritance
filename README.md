@@ -1,4 +1,4 @@
-# 🐾 Herança em Java com Encadeamento de Construtores
+# Herança em Java com Encadeamento de Construtores
 
 Este projeto demonstra de forma prática os conceitos de **Herança**, **Polimorfismo** e **Sobrescrita de Métodos** em Java, utilizando uma hierarquia simples de animais.
 
